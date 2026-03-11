@@ -2,9 +2,9 @@
 
 ## Team Members
 
-- Marek Olejniczak (160303)
-- Tomasz Preś (160305)
-- Michał Pokładowski (160278)
+- Marek Olejniczak - [GitHub](https://github.com/marek-olejniczak)
+- Tomasz Preś - [GitHub](https://github.com/tomasz-pres)
+- Michał Pokładowski - [GitHub](https://github.com/michaelo-ponteski)
 
 ## Project Overview
 
